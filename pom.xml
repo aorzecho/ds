@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.aorzecho</groupId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Data Structures</name>
+	<artifactId>ds</artifactId>
+	<packaging>bundle</packaging>
+
+	<scm>
+		<developerConnection>scm:git:git@github.com:aorzecho/zguide-2.git</developerConnection>
+		<connection>scm:git:git://github.com/aorzecho/zguide-2.git</connection>
+		<url>git://github.com/aorzecho/zguide-2.git</url>
+	</scm>
+
+	<description>OrderStatisticTreeMap and maybe other useful data structures...</description>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.10</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.5</source>
+					<target>1.5</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<version>2.3.6</version>
+				<extensions>true</extensions>
+				<configuration>
+					<instructions>
+						<Export-Package>org.aorzecho.ds</Export-Package>
+						<Private-Package>org.aorzecho.ds.*</Private-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>

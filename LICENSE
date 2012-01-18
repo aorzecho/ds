@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<link rel="icon" href="/jdk6/jdk6/static/nanoduke.ico" type="image/png">
+<meta name="robots" content="index, nofollow"/>
+<link rel="stylesheet" href="/jdk6/jdk6/static/style.css" type="text/css" />
+
+<title>jdk6/jdk6: LICENSE@23ccfdd19fa4</title>
+<link rel="alternate" type="application/rss+xml"
+   href="/jdk6/jdk6/rss-log" title="RSS feed for jdk6/jdk6">
+</head>
+<body>
+
+<div class="page_header">
+<a href="http://www.selenic.com/mercurial/" title="Mercurial"><div style="float:right;">Mercurial</div></a><a href="/jdk6/jdk6/summary">jdk6/jdk6</a> / file revision
+</div>
+
+<div class="page_nav">
+<a href="/jdk6/jdk6/summary">summary</a> |
+<a href="/jdk6/jdk6/shortlog">shortlog</a> |
+<a href="/jdk6/jdk6/log">changelog</a> |
+<a href="/jdk6/jdk6/tags">tags</a> |
+<a href="/jdk6/jdk6/file/23ccfdd19fa4/">manifest</a> |
+<a href="/jdk6/jdk6/rev/23ccfdd19fa4">changeset</a> |
+file |
+<a href="/jdk6/jdk6/log/23ccfdd19fa4/LICENSE">revisions</a> |
+<a href="/jdk6/jdk6/annotate/23ccfdd19fa4/LICENSE">annotate</a> |
+<a href="/jdk6/jdk6/diff/23ccfdd19fa4/LICENSE">diff</a> |
+<a href="/jdk6/jdk6/raw-file/23ccfdd19fa4/LICENSE">raw</a><br/>
+</div>
+
+<div class="title">LICENSE</div>
+
+<div class="title_text">
+<table cellspacing="0">
+<tr>
+ <td>author</td>
+ <td>&#111;&#104;&#97;&#105;&#114;</td></tr>
+<tr>
+ <td></td>
+ <td>Wed Feb 16 13:23:59 2011 -0800 (11 months ago)</td></tr>
+<tr>
+ <td>changeset 64</td>
+ <td style="font-family:monospace"><a class="list" href="/jdk6/jdk6/rev/23ccfdd19fa4">23ccfdd19fa4</a></td></tr>
+<tr><td>parent 0</td><td style="font-family:monospace"><a class="list" href="/jdk6/jdk6/file/d5ea358b429b/LICENSE">d5ea358b429b</a></td></tr>
+
+<tr>
+ <td>permissions</td>
+ <td style="font-family:monospace">-rw-r--r--</td></tr>
+</table>
+</div>
+
+<div class="page_path">
+7013964: openjdk LICENSE file needs rebranding<br/>
+Reviewed-by: darcy, katleman, jjg
+</div>
+
+<div class="page_body">
+<div style="font-family:monospace" class="parity0"><pre><span class="linenr">        1</span> The GNU General Public License (GPL)
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">        2</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">        3</span> Version 2, June 1991
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">        4</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">        5</span> Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">        6</span> 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">        7</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">        8</span> Everyone is permitted to copy and distribute verbatim copies of this license
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">        9</span> document, but changing it is not allowed.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       10</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       11</span> Preamble
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       12</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       13</span> The licenses for most software are designed to take away your freedom to share
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       14</span> and change it.  By contrast, the GNU General Public License is intended to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       15</span> guarantee your freedom to share and change free software--to make sure the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       16</span> software is free for all its users.  This General Public License applies to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       17</span> most of the Free Software Foundation's software and to any other program whose
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       18</span> authors commit to using it.  (Some other Free Software Foundation software is
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       19</span> covered by the GNU Library General Public License instead.) You can apply it to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       20</span> your programs, too.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       21</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       22</span> When we speak of free software, we are referring to freedom, not price.  Our
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       23</span> General Public Licenses are designed to make sure that you have the freedom to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       24</span> distribute copies of free software (and charge for this service if you wish),
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       25</span> that you receive source code or can get it if you want it, that you can change
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       26</span> the software or use pieces of it in new free programs; and that you know you
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       27</span> can do these things.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       28</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       29</span> To protect your rights, we need to make restrictions that forbid anyone to deny
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       30</span> you these rights or to ask you to surrender the rights.  These restrictions
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       31</span> translate to certain responsibilities for you if you distribute copies of the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       32</span> software, or if you modify it.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       33</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       34</span> For example, if you distribute copies of such a program, whether gratis or for
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       35</span> a fee, you must give the recipients all the rights that you have.  You must
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       36</span> make sure that they, too, receive or can get the source code.  And you must
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       37</span> show them these terms so they know their rights.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       38</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       39</span> We protect your rights with two steps: (1) copyright the software, and (2)
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       40</span> offer you this license which gives you legal permission to copy, distribute
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       41</span> and/or modify the software.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       42</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       43</span> Also, for each author's protection and ours, we want to make certain that
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       44</span> everyone understands that there is no warranty for this free software.  If the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       45</span> software is modified by someone else and passed on, we want its recipients to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       46</span> know that what they have is not the original, so that any problems introduced
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       47</span> by others will not reflect on the original authors' reputations.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       48</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       49</span> Finally, any free program is threatened constantly by software patents.  We
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       50</span> wish to avoid the danger that redistributors of a free program will
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       51</span> individually obtain patent licenses, in effect making the program proprietary.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       52</span> To prevent this, we have made it clear that any patent must be licensed for
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       53</span> everyone's free use or not licensed at all.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       54</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       55</span> The precise terms and conditions for copying, distribution and modification
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       56</span> follow.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       57</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       58</span> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       59</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       60</span> 0. This License applies to any program or other work which contains a notice
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       61</span> placed by the copyright holder saying it may be distributed under the terms of
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       62</span> this General Public License.  The &quot;Program&quot;, below, refers to any such program
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       63</span> or work, and a &quot;work based on the Program&quot; means either the Program or any
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       64</span> derivative work under copyright law: that is to say, a work containing the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       65</span> Program or a portion of it, either verbatim or with modifications and/or
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       66</span> translated into another language.  (Hereinafter, translation is included
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       67</span> without limitation in the term &quot;modification&quot;.) Each licensee is addressed as
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       68</span> &quot;you&quot;.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       69</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       70</span> Activities other than copying, distribution and modification are not covered by
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       71</span> this License; they are outside its scope.  The act of running the Program is
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       72</span> not restricted, and the output from the Program is covered only if its contents
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       73</span> constitute a work based on the Program (independent of having been made by
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       74</span> running the Program).  Whether that is true depends on what the Program does.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       75</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       76</span> 1. You may copy and distribute verbatim copies of the Program's source code as
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       77</span> you receive it, in any medium, provided that you conspicuously and
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       78</span> appropriately publish on each copy an appropriate copyright notice and
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       79</span> disclaimer of warranty; keep intact all the notices that refer to this License
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       80</span> and to the absence of any warranty; and give any other recipients of the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       81</span> Program a copy of this License along with the Program.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       82</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       83</span> You may charge a fee for the physical act of transferring a copy, and you may
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       84</span> at your option offer warranty protection in exchange for a fee.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       85</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       86</span> 2. You may modify your copy or copies of the Program or any portion of it, thus
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       87</span> forming a work based on the Program, and copy and distribute such modifications
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       88</span> or work under the terms of Section 1 above, provided that you also meet all of
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       89</span> these conditions:
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       90</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       91</span>     a) You must cause the modified files to carry prominent notices stating
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       92</span>     that you changed the files and the date of any change.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       93</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       94</span>     b) You must cause any work that you distribute or publish, that in whole or
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       95</span>     in part contains or is derived from the Program or any part thereof, to be
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       96</span>     licensed as a whole at no charge to all third parties under the terms of
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       97</span>     this License.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">       98</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">       99</span>     c) If the modified program normally reads commands interactively when run,
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      100</span>     you must cause it, when started running for such interactive use in the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      101</span>     most ordinary way, to print or display an announcement including an
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      102</span>     appropriate copyright notice and a notice that there is no warranty (or
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      103</span>     else, saying that you provide a warranty) and that users may redistribute
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      104</span>     the program under these conditions, and telling the user how to view a copy
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      105</span>     of this License.  (Exception: if the Program itself is interactive but does
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      106</span>     not normally print such an announcement, your work based on the Program is
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      107</span>     not required to print an announcement.)
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      108</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      109</span> These requirements apply to the modified work as a whole.  If identifiable
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      110</span> sections of that work are not derived from the Program, and can be reasonably
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      111</span> considered independent and separate works in themselves, then this License, and
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      112</span> its terms, do not apply to those sections when you distribute them as separate
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      113</span> works.  But when you distribute the same sections as part of a whole which is a
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      114</span> work based on the Program, the distribution of the whole must be on the terms
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      115</span> of this License, whose permissions for other licensees extend to the entire
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      116</span> whole, and thus to each and every part regardless of who wrote it.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      117</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      118</span> Thus, it is not the intent of this section to claim rights or contest your
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      119</span> rights to work written entirely by you; rather, the intent is to exercise the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      120</span> right to control the distribution of derivative or collective works based on
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      121</span> the Program.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      122</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      123</span> In addition, mere aggregation of another work not based on the Program with the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      124</span> Program (or with a work based on the Program) on a volume of a storage or
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      125</span> distribution medium does not bring the other work under the scope of this
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      126</span> License.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      127</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      128</span> 3. You may copy and distribute the Program (or a work based on it, under
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      129</span> Section 2) in object code or executable form under the terms of Sections 1 and
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      130</span> 2 above provided that you also do one of the following:
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      131</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      132</span>     a) Accompany it with the complete corresponding machine-readable source
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      133</span>     code, which must be distributed under the terms of Sections 1 and 2 above
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      134</span>     on a medium customarily used for software interchange; or,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      135</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      136</span>     b) Accompany it with a written offer, valid for at least three years, to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      137</span>     give any third party, for a charge no more than your cost of physically
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      138</span>     performing source distribution, a complete machine-readable copy of the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      139</span>     corresponding source code, to be distributed under the terms of Sections 1
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      140</span>     and 2 above on a medium customarily used for software interchange; or,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      141</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      142</span>     c) Accompany it with the information you received as to the offer to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      143</span>     distribute corresponding source code.  (This alternative is allowed only
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      144</span>     for noncommercial distribution and only if you received the program in
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      145</span>     object code or executable form with such an offer, in accord with
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      146</span>     Subsection b above.)
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      147</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      148</span> The source code for a work means the preferred form of the work for making
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      149</span> modifications to it.  For an executable work, complete source code means all
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      150</span> the source code for all modules it contains, plus any associated interface
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      151</span> definition files, plus the scripts used to control compilation and installation
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      152</span> of the executable.  However, as a special exception, the source code
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      153</span> distributed need not include anything that is normally distributed (in either
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      154</span> source or binary form) with the major components (compiler, kernel, and so on)
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      155</span> of the operating system on which the executable runs, unless that component
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      156</span> itself accompanies the executable.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      157</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      158</span> If distribution of executable or object code is made by offering access to copy
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      159</span> from a designated place, then offering equivalent access to copy the source
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      160</span> code from the same place counts as distribution of the source code, even though
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      161</span> third parties are not compelled to copy the source along with the object code.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      162</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      163</span> 4. You may not copy, modify, sublicense, or distribute the Program except as
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      164</span> expressly provided under this License.  Any attempt otherwise to copy, modify,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      165</span> sublicense or distribute the Program is void, and will automatically terminate
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      166</span> your rights under this License.  However, parties who have received copies, or
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      167</span> rights, from you under this License will not have their licenses terminated so
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      168</span> long as such parties remain in full compliance.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      169</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      170</span> 5. You are not required to accept this License, since you have not signed it.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      171</span> However, nothing else grants you permission to modify or distribute the Program
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      172</span> or its derivative works.  These actions are prohibited by law if you do not
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      173</span> accept this License.  Therefore, by modifying or distributing the Program (or
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      174</span> any work based on the Program), you indicate your acceptance of this License to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      175</span> do so, and all its terms and conditions for copying, distributing or modifying
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      176</span> the Program or works based on it.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      177</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      178</span> 6. Each time you redistribute the Program (or any work based on the Program),
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      179</span> the recipient automatically receives a license from the original licensor to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      180</span> copy, distribute or modify the Program subject to these terms and conditions.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      181</span> You may not impose any further restrictions on the recipients' exercise of the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      182</span> rights granted herein.  You are not responsible for enforcing compliance by
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      183</span> third parties to this License.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      184</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      185</span> 7. If, as a consequence of a court judgment or allegation of patent
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      186</span> infringement or for any other reason (not limited to patent issues), conditions
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      187</span> are imposed on you (whether by court order, agreement or otherwise) that
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      188</span> contradict the conditions of this License, they do not excuse you from the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      189</span> conditions of this License.  If you cannot distribute so as to satisfy
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      190</span> simultaneously your obligations under this License and any other pertinent
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      191</span> obligations, then as a consequence you may not distribute the Program at all.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      192</span> For example, if a patent license would not permit royalty-free redistribution
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      193</span> of the Program by all those who receive copies directly or indirectly through
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      194</span> you, then the only way you could satisfy both it and this License would be to
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      195</span> refrain entirely from distribution of the Program.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      196</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      197</span> If any portion of this section is held invalid or unenforceable under any
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      198</span> particular circumstance, the balance of the section is intended to apply and
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      199</span> the section as a whole is intended to apply in other circumstances.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      200</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      201</span> It is not the purpose of this section to induce you to infringe any patents or
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      202</span> other property right claims or to contest validity of any such claims; this
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      203</span> section has the sole purpose of protecting the integrity of the free software
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      204</span> distribution system, which is implemented by public license practices.  Many
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      205</span> people have made generous contributions to the wide range of software
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      206</span> distributed through that system in reliance on consistent application of that
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      207</span> system; it is up to the author/donor to decide if he or she is willing to
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      208</span> distribute software through any other system and a licensee cannot impose that
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      209</span> choice.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      210</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      211</span> This section is intended to make thoroughly clear what is believed to be a
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      212</span> consequence of the rest of this License.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      213</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      214</span> 8. If the distribution and/or use of the Program is restricted in certain
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      215</span> countries either by patents or by copyrighted interfaces, the original
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      216</span> copyright holder who places the Program under this License may add an explicit
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      217</span> geographical distribution limitation excluding those countries, so that
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      218</span> distribution is permitted only in or among countries not thus excluded.  In
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      219</span> such case, this License incorporates the limitation as if written in the body
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      220</span> of this License.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      221</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      222</span> 9. The Free Software Foundation may publish revised and/or new versions of the
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      223</span> General Public License from time to time.  Such new versions will be similar in
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      224</span> spirit to the present version, but may differ in detail to address new problems
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      225</span> or concerns.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      226</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      227</span> Each version is given a distinguishing version number.  If the Program
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      228</span> specifies a version number of this License which applies to it and &quot;any later
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      229</span> version&quot;, you have the option of following the terms and conditions either of
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      230</span> that version or of any later version published by the Free Software Foundation.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      231</span> If the Program does not specify a version number of this License, you may
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      232</span> choose any version ever published by the Free Software Foundation.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      233</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      234</span> 10. If you wish to incorporate parts of the Program into other free programs
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      235</span> whose distribution conditions are different, write to the author to ask for
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      236</span> permission.  For software which is copyrighted by the Free Software Foundation,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      237</span> write to the Free Software Foundation; we sometimes make exceptions for this.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      238</span> Our decision will be guided by the two goals of preserving the free status of
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      239</span> all derivatives of our free software and of promoting the sharing and reuse of
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      240</span> software generally.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      241</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      242</span> NO WARRANTY
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      243</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      244</span> 11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      245</span> THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN OTHERWISE
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      246</span> STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      247</span> PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      248</span> INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      249</span> FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      250</span> PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      251</span> YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      252</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      253</span> 12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      254</span> ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      255</span> PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      256</span> GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      257</span> INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      258</span> BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      259</span> FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      260</span> OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      261</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      262</span> END OF TERMS AND CONDITIONS
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      263</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      264</span> How to Apply These Terms to Your New Programs
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      265</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      266</span> If you develop a new program, and you want it to be of the greatest possible
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      267</span> use to the public, the best way to achieve this is to make it free software
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      268</span> which everyone can redistribute and change under these terms.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      269</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      270</span> To do so, attach the following notices to the program.  It is safest to attach
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      271</span> them to the start of each source file to most effectively convey the exclusion
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      272</span> of warranty; and each file should have at least the &quot;copyright&quot; line and a
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      273</span> pointer to where the full notice is found.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      274</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      275</span>     One line to give the program's name and a brief idea of what it does.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      276</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      277</span>     Copyright (C) &lt;year&gt; &lt;name of author&gt;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      278</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      279</span>     This program is free software; you can redistribute it and/or modify it
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      280</span>     under the terms of the GNU General Public License as published by the Free
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      281</span>     Software Foundation; either version 2 of the License, or (at your option)
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      282</span>     any later version.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      283</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      284</span>     This program is distributed in the hope that it will be useful, but WITHOUT
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      285</span>     ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      286</span>     FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      287</span>     more details.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      288</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      289</span>     You should have received a copy of the GNU General Public License along
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      290</span>     with this program; if not, write to the Free Software Foundation, Inc., 59
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      291</span>     Temple Place, Suite 330, Boston, MA 02111-1307 USA
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      292</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      293</span> Also add information on how to contact you by electronic and paper mail.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      294</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      295</span> If the program is interactive, make it output a short notice like this when it
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      296</span> starts in an interactive mode:
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      297</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      298</span>     Gnomovision version 69, Copyright (C) year name of author Gnomovision comes
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      299</span>     with ABSOLUTELY NO WARRANTY; for details type 'show w'.  This is free
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      300</span>     software, and you are welcome to redistribute it under certain conditions;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      301</span>     type 'show c' for details.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      302</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      303</span> The hypothetical commands 'show w' and 'show c' should show the appropriate
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      304</span> parts of the General Public License.  Of course, the commands you use may be
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      305</span> called something other than 'show w' and 'show c'; they could even be
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      306</span> mouse-clicks or menu items--whatever suits your program.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      307</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      308</span> You should also get your employer (if you work as a programmer) or your school,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      309</span> if any, to sign a &quot;copyright disclaimer&quot; for the program, if necessary.  Here
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      310</span> is a sample; alter the names:
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      311</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      312</span>     Yoyodyne, Inc., hereby disclaims all copyright interest in the program
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      313</span>     'Gnomovision' (which makes passes at compilers) written by James Hacker.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      314</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      315</span>     signature of Ty Coon, 1 April 1989
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      316</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      317</span>     Ty Coon, President of Vice
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      318</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      319</span> This General Public License does not permit incorporating your program into
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      320</span> proprietary programs.  If your program is a subroutine library, you may
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      321</span> consider it more useful to permit linking proprietary applications with the
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      322</span> library.  If this is what you want to do, use the GNU Library General Public
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      323</span> License instead of this License.
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      324</span> 
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      325</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      326</span> &quot;CLASSPATH&quot; EXCEPTION TO THE GPL
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      327</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      328</span> Certain source files distributed by Oracle America and/or its affiliates are
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      329</span> subject to the following clarification and special exception to the GPL, but
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      330</span> only where Oracle has expressly included in the particular source file's header
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      331</span> the words &quot;Oracle designates this particular file as subject to the &quot;Classpath&quot;
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      332</span> exception as provided by Oracle in the LICENSE file that accompanied this code.&quot;
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      333</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      334</span>     Linking this library statically or dynamically with other modules is making
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      335</span>     a combined work based on this library.  Thus, the terms and conditions of
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      336</span>     the GNU General Public License cover the whole combination.
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      337</span> 
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      338</span>     As a special exception, the copyright holders of this library give you
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      339</span>     permission to link this library with independent modules to produce an
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      340</span>     executable, regardless of the license terms of these independent modules,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      341</span>     and to copy and distribute the resulting executable under terms of your
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      342</span>     choice, provided that you also meet, for each linked independent module,
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      343</span>     the terms and conditions of the license of that module.  An independent
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      344</span>     module is a module which is not derived from or based on this library.  If
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      345</span>     you modify this library, you may extend this exception to your version of
+</pre></div><div style="font-family:monospace" class="parity1"><pre><span class="linenr">      346</span>     the library, but you are not obligated to do so.  If you do not wish to do
+</pre></div><div style="font-family:monospace" class="parity0"><pre><span class="linenr">      347</span>     so, delete this exception statement from your version.
+</pre></div>
+</div>
+
+<div class="page_footer">
+<div class="page_footer_text">jdk6/jdk6</div>
+<a class="rss_logo" href="/jdk6/jdk6/rss-log">RSS</a>
+<br />
+</div>
+<div id="legal-footer">
+  &#169; 2010 Oracle Corporation and/or its affiliates
+  <br/><a href="http://java.net/terms.csp">Terms of Use</a>
+  &#183; <a href="http://www.sun.com/privacy/">Privacy</a>
+  &#183; <a href="http://www.sun.com/suntrademarks/">Trademarks</a>
+</div>
+
+</body>
+</html>
+
